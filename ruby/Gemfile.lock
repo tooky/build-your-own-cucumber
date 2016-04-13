@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    awesome_print (1.6.1)
+    gherkin (4.0.0)
+    minitest (5.8.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  awesome_print
+  gherkin (~> 4.0)
+  minitest
+
+BUNDLED WITH
+   1.11.2
